@@ -1,0 +1,15 @@
+{
+  "id": "jetbrains-space",
+  "name": "JetBrains Space",
+  "version": "1.0.0",
+  "description": "JetBrains Space",
+  "main": "index.js",
+  "author": "Salomon BRYS <salomon@kodein.net>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}.jetbrains.space",
+    "hasNotificationSound": true,
+    "hasTeamId": true,
+    "urlInputSuffix": ".jetbrains.space"
+  }
+}
